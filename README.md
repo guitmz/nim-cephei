@@ -1,7 +1,7 @@
 # Linux.Cephei
 
-This is a POC ELF prepender written in Nim. I like writting prependers on languages that I'm learning and find interesting. Nim is a very nice one!
-It is probably the first binary infector ever written in this language, that's neat.
+This is a POC ELF prepender written in Nim. I like writting prependers on languages that I'm learning and find interesting. Nim is a very nice one!    
+It is probably the first binary infector ever written in this language, that's neat.    
 The above affirmation is based on SPTH LIP page: http://spth.virii.lu/LIP.html
 
 
