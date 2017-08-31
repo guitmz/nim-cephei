@@ -22,3 +22,6 @@ A static binary sample is also available at https://www.guitmz.com/linux.cephei
 $ file linux.cephei
 ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, not stripped
 ```
+
+# Demo
+[![asciicast](https://asciinema.org/a/SCvK85G2WHewvw4kH5NxmfFrH.png)](https://asciinema.org/a/SCvK85G2WHewvw4kH5NxmfFrH)
