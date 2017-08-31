@@ -17,7 +17,7 @@ You can also build with Docker:
 Note that Nim version used was 0.17.0, the latest at this moment.
 
 # Binary Sample
-A binary sample is also available at https://www.guitmz.com/linux.cephei
+A static binary sample is also available at https://www.guitmz.com/linux.cephei
 ```
 $ file linux.cephei
 ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, not stripped
