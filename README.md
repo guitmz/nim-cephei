@@ -24,4 +24,4 @@ ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically linked, not 
 ```
 
 # Demo
-[![asciicast](https://asciinema.org/a/SCvK85G2WHewvw4kH5NxmfFrH.png)](https://asciinema.org/a/SCvK85G2WHewvw4kH5NxmfFrH)
+[![asciicast](https://asciinema.org/a/RIYDinGMsBqCNOKi8K2MakSoF.png)](https://asciinema.org/a/RIYDinGMsBqCNOKi8K2MakSoF)
